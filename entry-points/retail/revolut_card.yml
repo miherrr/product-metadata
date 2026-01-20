@@ -1,4 +1,4 @@
-entry-points:
+entry_points:
   - id: CARDS # existing product mapped to product type root
     status: PUBLISHED
     team_id: 101

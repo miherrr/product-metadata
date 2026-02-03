@@ -998,13 +998,13 @@ entry_points:
     status: PUBLISHED
     team_id: 2064
     meta:
-      title: "income_sorter.global_search.title"
+      title: "analytics.income_sorter.global_search.title"
       subtitle: null
       icon: "icn_24_arrow_split"
       keywords:
-        - "income_sorter.global_search.keywords.income_sorter"
-        - "income_sorter.global_search.keywords.salary_sorter"
-        - "income_sorter.global_search.keywords.sorter"
+        - "analytics.income_sorter.global_search.keywords.income_sorter"
+        - "analytics.income_sorter.global_search.keywords.salary_sorter"
+        - "analytics.income_sorter.global_search.keywords.sorter"
 
   # Analytics Module
   - id: ANALYTICS

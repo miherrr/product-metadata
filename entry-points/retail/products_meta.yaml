@@ -1,7 +1,4 @@
-# Product Search Items Meta Information
-# Generated from ProductSearchItemProviderProtocol and ProductSearchAndSuggestionItemProviderProtocol implementations
 entry_points:
-
   # GlobalSearch - Discover Items
   - id: WATCHLIST
     status: PUBLISHED
@@ -448,11 +445,11 @@ entry_points:
       keywords: []
 
   - id: CREDIT_CARD
-    status: DRAFT
+    status: PUBLISHED
     team_id: 2939
     meta:
       title: "credit.get_credit.credit_card.title"
-      subtitle: null #dynamic
+      subtitle: "global_search_products.placeholder"
       icon: "icn_24_credit_card"
       keywords: []
 
@@ -525,10 +522,10 @@ entry_points:
 
   # Trading Module
   - id: STOCKS
-    status: DRAFT
+    status: PUBLISHED
     team_id: 1469
     meta:
-      title: "invest.account.gia.title" #dynamic
+      title: "global_search_products.placeholder"
       subtitle: null
       icon: "icn_24_wealth"
       keywords:
@@ -562,10 +559,10 @@ entry_points:
         - "invest.suggestions.products.stocks.gilts"
 
   - id: STOCKS_TAA
-    status: DRAFT
+    status: PUBLISHED
     team_id: 1469
     meta:
-      title: "invest.account.taa.title" #dynamic
+      title: "global_search_products.placeholder"
       subtitle: null
       icon: "icn_24_bar_chart_percent"
       keywords:
@@ -580,10 +577,10 @@ entry_points:
         - "invest.suggestions.products.stocks_taa.transfer_isa"
 
   - id: JISA
-    status: DRAFT
+    status: PUBLISHED
     team_id: 1469
     meta:
-      title: "invest.account.jisa.title" #dynamic
+      title: "global_search_products.placeholder"
       subtitle: null
       icon: "icn_24_children"
       keywords:
@@ -662,11 +659,11 @@ entry_points:
 
   # Referrals Module
   - id: REFERRALS
-    status: DRAFT
+    status: PUBLISHED
     team_id: 3637
     meta:
       title: "referrals.product_search.title"
-      subtitle: "referrals.product_search.subtitle" #dynamic
+      subtitle: "global_search_products.placeholder"
       icon: "icn_24_add_contact"
       keywords:
         - "referrals.product_search.keyword.reward"
@@ -688,11 +685,11 @@ entry_points:
 
   # Savings/Vaults Module
   - id: SAVINGS
-    status: DRAFT
+    status: PUBLISHED
     team_id: 2260
     meta:
-      title: "savings.search.product.savings.title" #dynamic
-      subtitle: "savings.search.product.subtitle" #dynamic
+      title: "global_search_products.placeholder"
+      subtitle: "global_search_products.placeholder"
       icon: "icn_24_savings_vault"
       keywords:
         - "vaults.search.product.savings.title"
@@ -700,11 +697,11 @@ entry_points:
         - "vaults.search.product.interest.title"
 
   - id: JOINT_SAVINGS
-    status: DRAFT
+    status: PUBLISHED
     team_id: 2260
     meta:
-      title: "savings.account_type.joint" #dynamic
-      subtitle: "savings.search.product.subtitle" #dynamic
+      title: "global_search_products.placeholder"
+      subtitle: "global_search_products.placeholder"
       icon: "icn_24_savings_vault"
       keywords:
         - "vaults.search.product.savings.title"
@@ -973,11 +970,11 @@ entry_points:
 
   # Joint Accounts Module
   - id: JOINT_ACCOUNT
-    status: DRAFT
+    status: PUBLISHED
     team_id: 1859
     meta:
-      title: "joint.home.new_account.title" #dynamic
-      subtitle: "joint.home.new_account.description" #dynamic
+      title: "global_search_products.placeholder"
+      subtitle: "global_search_products.placeholder"
       icon: "icn_24_joint"
       keywords:
         - "joint.home.currency_account.product_name"
@@ -1125,10 +1122,10 @@ entry_points:
 
   # ESim Module
   - id: ESIM
-    status: DRAFT
+    status: PUBLISHED
     team_id: 3212
     meta:
-      title: "esim.global_search.products.esim" #dynamic
+      title: "global_search_products.placeholder"
       subtitle: null
       icon: "icn_24_sim_card"
       keywords:
@@ -1263,11 +1260,11 @@ entry_points:
 
   # Freelancer Module
   - id: PRO_ACCOUNT
-    status: DRAFT
+    status: PUBLISHED
     team_id: 1626
     meta:
       title: "freelancer.common.search.product.title"
-      subtitle: null #dynamic
+      subtitle: "global_search_products.placeholder"
       icon: "icn_24_services"
       keywords:
         - "freelancer.common.search.product.default_keyword"
@@ -1381,6 +1378,29 @@ entry_points:
         - "freelancer.common.search.product.keyword.shopify"
         - "freelancer.common.search.product.keyword.woocommerce"
         - "freelancer.common.search.product.keyword.prestashop"
+
+  - id: PRO_TERMINAL
+    status: PUBLISHED
+    team_id: 1626
+    meta:
+      title: "freelancer.common.search.product.revolut_terminal.title"
+      subtitle: "freelancer.common.search.product.revolut_terminal.subtitle"
+      icon: "icn_24_card_terminal"
+      keywords:
+        - "freelancer.common.search.product.keyword.terminal"
+        - "freelancer.common.search.product.keyword.revolut_terminal"
+        - "freelancer.common.search.product.keyword.pos"
+
+  - id: PRO_HARDWARE_SHOP
+    status: PUBLISHED
+    team_id: 1626
+    meta:
+      title: "freelancer.common.search.product.hardware_shop.title"
+      subtitle: "freelancer.common.search.product.hardware_shop.subtitle"
+      icon: "icn_24_card_terminal"
+      keywords:
+        - "freelancer.common.search.product.keyword.hardware"
+        - "freelancer.common.search.product.keyword.in_person_payment"
 
   # Account Switch Module
   - id: ACCOUNT_SWITCH_NL

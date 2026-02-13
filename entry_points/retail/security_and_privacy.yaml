@@ -1,0 +1,24 @@
+id: SECURITY_AND_PRIVACY
+status: PUBLISHED
+team_id: 3719
+meta:
+  title: "search.block.discover.security_and_privacy.title"
+  subtitle: null
+  icon: "icn_24_shield"
+  keywords:
+    - "search.block.discover.keywords.security"
+    - "search.block.discover.keywords.privacy"
+    - "search.block.discover.keywords.notifications"
+    - "search.block.discover.keywords.advertising"
+    - "search.block.discover.keywords.advertisement"
+    - "search.block.discover.keywords.push"
+    - "search.block.discover.keywords.payments"
+    - "search.block.discover.keywords.contacts"
+    - "search.block.discover.keywords.alerts"
+    - "search.block.discover.keywords.trusted_merchants"
+    - "search.block.discover.keywords.devices"
+    - "search.block.discover.keywords.gambling_block"
+    - "search.block.discover.keywords.sign_in"
+    - "search.block.discover.keywords.login"
+    - "search.block.discover.keywords.biometric"
+    - "search.block.discover.keywords.face_recognition"

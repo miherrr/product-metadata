@@ -1,0 +1,12 @@
+id: CRYPTO_TAB
+status: PUBLISHED
+team_id: 1000
+meta:
+  title: "crypto.global_search.crypto_tab.title"
+  subtitle: null
+  icon: "icn_24_bitcoin"
+  keywords:
+    - "crypto.global_search.crypto_tab.keywords.crypto"
+    - "crypto.global_search.crypto_tab.keywords.revolut_crypto"
+    - "crypto.global_search.crypto_tab.keywords.crypto_news"
+    - "crypto.global_search.crypto_tab.keywords.watchlist"

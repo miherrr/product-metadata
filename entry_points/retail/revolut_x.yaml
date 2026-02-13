@@ -1,0 +1,15 @@
+id: REVOLUT_X
+status: PUBLISHED
+team_id: 1000
+meta:
+  title: "crypto.global_search.revolutx.title"
+  subtitle: null
+  icon: "icn_24_candlestick_chart"
+  keywords:
+    - "crypto.global_search.revolutx.keywords.revolut_x"
+    - "crypto.global_search.revolutx.keywords.crypto_exchange"
+    - "crypto.global_search.revolutx.keywords.advanced_trading"
+    - "crypto.global_search.revolutx.keywords.trading_terminal"
+    - "crypto.global_search.revolutx.keywords.terminal"
+    - "crypto.global_search.revolutx.keywords.order_book"
+    - "crypto.global_search.revolutx.keywords.pro_trading"

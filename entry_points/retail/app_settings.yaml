@@ -1,0 +1,13 @@
+id: APP_SETTINGS
+status: PUBLISHED
+team_id: 3719
+meta:
+  title: "search.block.discover.app_settings.title"
+  subtitle: null
+  icon: "icn_24_gear"
+  keywords:
+    - "search.block.discover.keywords.app_icon"
+    - "search.block.discover.keywords.theme"
+    - "search.block.discover.keywords.color"
+    - "search.block.discover.keywords.background"
+    - "search.block.discover.keywords.language"

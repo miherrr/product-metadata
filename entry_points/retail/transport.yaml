@@ -1,0 +1,15 @@
+id: TRANSPORT
+status: PUBLISHED
+team_id: 2686
+meta:
+  title: "lifestyle.search.products.transport"
+  subtitle: "lifestyle.search.products.transport.subtitle"
+  icon: "icn_24_transport"
+  keywords:
+    - "lifestyle.search.products.keywords.bus"
+    - "lifestyle.search.products.keywords.metro"
+    - "lifestyle.search.products.keywords.parking"
+    - "lifestyle.search.products.keywords.skycash"
+    - "lifestyle.search.products.keywords.train"
+    - "lifestyle.search.products.keywords.tram"
+    - "lifestyle.search.products.keywords.transport"

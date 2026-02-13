@@ -1,0 +1,12 @@
+id: TERMS_AND_CONDITIONS
+status: PUBLISHED
+team_id: 3719
+meta:
+  title: "search.block.discover.terms_and_conditions.title"
+  subtitle: null
+  icon: "icn_24_info"
+  keywords:
+    - "search.block.discover.keywords.terms_and_conditions"
+    - "search.block.discover.keywords.terms"
+    - "search.block.discover.keywords.conditions"
+    - "search.block.discover.keywords.information"

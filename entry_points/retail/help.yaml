@@ -1,0 +1,21 @@
+id: HELP
+status: PUBLISHED
+team_id: 930
+meta:
+  title: "search.block.help_centre.get_help.title"
+  subtitle: null
+  icon: "icn_24_question"
+  keywords:
+    - "search.block.help_centre.assist"
+    - "search.block.help_centre.assistance"
+    - "search.block.help_centre.assistant"
+    - "search.block.help_centre.call"
+    - "search.block.help_centre.chat"
+    - "search.block.help_centre.customer_support"
+    - "search.block.help_centre.global"
+    - "search.block.help_centre.help"
+    - "search.block.help_centre.issue"
+    - "search.block.help_centre.phone"
+    - "search.block.help_centre.support"
+    - "search.block.help_centre.trouble"
+    - "help_center.support.subtitle_contact_us"

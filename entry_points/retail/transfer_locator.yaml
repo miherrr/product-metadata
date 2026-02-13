@@ -1,0 +1,9 @@
+id: TRANSFER_LOCATOR
+status: PUBLISHED
+team_id: 3719
+meta:
+  title: "search.block.discover.inbound_transfer_locator.title"
+  subtitle: null
+  icon: "icn_24_time_and_money"
+  keywords:
+    - "search.block.discover.keywords.inbound_transfer_locator"

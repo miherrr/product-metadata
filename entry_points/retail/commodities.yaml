@@ -1,0 +1,11 @@
+id: COMMODITIES
+status: PUBLISHED
+team_id: 2177
+meta:
+  title: "wealth.commodities.global_search.title"
+  subtitle: null
+  icon: "icn_24_commodities"
+  keywords:
+    - "invest.suggestions.products.commodities.commodities"
+    - "invest.suggestions.products.commodities.futures"
+    - "invest.suggestions.products.commodities.metals"

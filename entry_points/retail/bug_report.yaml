@@ -1,0 +1,10 @@
+id: BUG_REPORT
+status: PUBLISHED
+team_id: 3719
+meta:
+  title: "search.block.discover.bug_report.title"
+  subtitle: "search.block.discover.bug_report.subtitle"
+  icon: "icn_24_bug"
+  keywords:
+    - "search.block.discover.keywords.report"
+    - "search.block.discover.keywords.report_bug"

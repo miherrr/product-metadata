@@ -1,0 +1,12 @@
+id: TRIPS
+status: PUBLISHED
+team_id: 2064
+meta:
+  title: "trips.global_search.title"
+  subtitle: "trips.global_search.subtitle"
+  icon: "icn_24_globe"
+  keywords:
+    - "trips.global_search.keywords.globe"
+    - "trips.global_search.keywords.map"
+    - "trips.global_search.keywords.trip"
+    - "trips.global_search.keywords.holiday"

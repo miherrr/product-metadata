@@ -1,0 +1,9 @@
+id: PRO_INVOICES
+status: PUBLISHED
+team_id: 1626
+meta:
+  title: "freelancer.common.search.product.invoices.title"
+  subtitle: "freelancer.common.search.product.invoices.subtitle"
+  icon: "icn_24_document"
+  keywords:
+    - "freelancer.common.search.product.keyword.invoices"

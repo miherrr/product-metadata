@@ -1,0 +1,9 @@
+id: PRO_TAP_TO_PAY
+status: PUBLISHED
+team_id: 1626
+meta:
+  title: "freelancer.common.search.product.tap_to_pay.title"
+  subtitle: "freelancer.common.search.product.tap_to_pay.subtitle"
+  icon: "icn_24_logo_apple_tap_to_pay_filled"
+  keywords:
+    - "freelancer.common.search.product.keyword.tap_to_pay"

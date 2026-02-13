@@ -1,0 +1,12 @@
+id: CHANGE_PASSCODE
+status: PUBLISHED
+team_id: 3719
+meta:
+  title: "search.block.discover.change_passcode.title"
+  subtitle: null
+  icon: "icn_24_change_passcode"
+  keywords:
+    - "search.block.discover.keywords.password"
+    - "search.block.discover.keywords.passcode"
+    - "search.block.discover.keywords.pin"
+    - "search.block.discover.keywords.pincode"

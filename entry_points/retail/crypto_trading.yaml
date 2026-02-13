@@ -1,0 +1,29 @@
+id: CRYPTO_TRADING
+status: PUBLISHED
+team_id: 1000
+meta:
+  title: "crypto.global_search.crypto_trading.title"
+  subtitle: null
+  icon: "icn_24_arrow_rates"
+  keywords:
+    - "crypto.global_search.crypto_trading.keywords.trading"
+    - "crypto.global_search.crypto_trading.keywords.buy_crypto"
+    - "crypto.global_search.crypto_trading.keywords.sell_crypto"
+    - "crypto.global_search.crypto_trading.keywords.crypto_trading"
+    - "crypto.global_search.crypto_trading.keywords.trade_crypto"
+    - "crypto.global_search.crypto_trading.keywords.bitcoin"
+    - "crypto.global_search.crypto_trading.keywords.buy_bitcoin"
+    - "crypto.global_search.crypto_trading.keywords.buy_btc"
+    - "crypto.global_search.crypto_trading.keywords.ethereum"
+    - "crypto.global_search.crypto_trading.keywords.buy_eth"
+    - "crypto.global_search.crypto_trading.keywords.altcoins"
+    - "crypto.global_search.crypto_trading.keywords.sell_bitcoin"
+    - "crypto.global_search.crypto_trading.keywords.sell_btc"
+    - "crypto.global_search.crypto_trading.keywords.sell_ethereum"
+    - "crypto.global_search.crypto_trading.keywords.sell_etc"
+    - "crypto.global_search.crypto_trading.keywords.limit_order"
+    - "crypto.global_search.crypto_trading.keywords.market_order"
+    - "crypto.global_search.crypto_trading.keywords.stop_order"
+    - "crypto.global_search.crypto_trading.keywords.tp_sl"
+    - "crypto.global_search.crypto_trading.keywords.take_profit"
+    - "crypto.global_search.crypto_trading.keywords.stop_loss"

@@ -1,0 +1,13 @@
+id: CRYPTO_WITHDRAWALS
+status: PUBLISHED
+team_id: 2451
+meta:
+  title: "crypto.global_search.crypto_withdrawals.title"
+  subtitle: null
+  icon: "icn_24_arrow_send"
+  keywords:
+    - "crypto.global_search.crypto_withdrawals.keywords.crypto_withdrawal"
+    - "crypto.global_search.crypto_withdrawals.keywords.send_crypto"
+    - "crypto.global_search.crypto_withdrawals.keywords.withdraw_crypto"
+    - "crypto.global_search.crypto_withdrawals.keywords.withdrawal"
+    - "crypto.global_search.crypto_withdrawals.keywords.send"

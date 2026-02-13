@@ -1,0 +1,16 @@
+id: PERSONAL_DETAILS
+status: PUBLISHED
+team_id: 3719
+meta:
+  title: "search.block.discover.personal_details.title"
+  subtitle: null
+  icon: "icn_24_profile"
+  keywords:
+    - "search.block.discover.keywords.my_details"
+    - "search.block.discover.keywords.profile"
+    - "search.block.discover.keywords.revtag"
+    - "search.block.discover.keywords.date_of_birth"
+    - "search.block.discover.keywords.address"
+    - "search.block.discover.keywords.phone_number"
+    - "search.block.discover.keywords.email"
+    - "search.block.discover.keywords.country"

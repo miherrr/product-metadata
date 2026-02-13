@@ -1,0 +1,10 @@
+id: REV_POINTS_GIFT_CARDS
+status: PUBLISHED
+team_id: 2686
+meta:
+  title: "lifestyle.search.products.gift_cards"
+  subtitle: null
+  icon: "icn_24_present"
+  keywords:
+    - "lifestyle.search.products.keywords.gift"
+    - "lifestyle.search.products.keywords.cards"

@@ -1,0 +1,10 @@
+id: BUDGETING
+status: PUBLISHED
+team_id: 2064
+meta:
+  title: "analytics.budgeting.search.title"
+  subtitle: null
+  icon: "icn_24_pie_chart"
+  keywords:
+    - "analytics.search.keywords.budget"
+    - "analytics.search.keywords.save"

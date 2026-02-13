@@ -1,0 +1,10 @@
+id: PRO_CARD_READER
+status: PUBLISHED
+team_id: 1626
+meta:
+  title: "freelancer.common.search.product.card_reader.title"
+  subtitle: "freelancer.common.search.product.card_reader.subtitle"
+  icon: "icn_24_card_reader"
+  keywords:
+    - "freelancer.common.search.product.keyword.card_reader"
+    - "freelancer.common.search.product.keyword.revolut_reader"

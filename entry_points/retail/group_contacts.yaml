@@ -1,0 +1,12 @@
+id: GROUP_CONTACTS
+status: PUBLISHED
+team_id: 242
+meta:
+  title: "global_search.products.group.title"
+  subtitle: "global_search.products.group.subtitle"
+  icon: "icn_24_people"
+  keywords:
+    - "global_search.keywords.group.split"
+    - "global_search.keywords.group.expense"
+    - "global_search.keywords.group.divide"
+    - "global_search.keywords.group.share"

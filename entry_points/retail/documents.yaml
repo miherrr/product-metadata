@@ -1,0 +1,11 @@
+id: DOCUMENTS
+status: PUBLISHED
+team_id: 3719
+meta:
+  title: "search.block.discover.documents.title"
+  subtitle: null
+  icon: "icn_24_document"
+  keywords:
+    - "search.block.discover.keywords.documents"
+    - "search.block.discover.keywords.statements"
+    - "search.block.discover.keywords.balance"

@@ -1,0 +1,9 @@
+id: LINKED_ACCOUNTS
+status: PUBLISHED
+team_id: 358
+meta:
+  title: "linked.search.products.linked_accounts.title"
+  subtitle: "linked.search.products.linked_accounts.subtitle"
+  icon: "icn_24_wallet"
+  keywords:
+    - "linked.search.products.linked_accounts.category"

@@ -1,0 +1,14 @@
+id: PRO_PLUGINS
+status: PUBLISHED
+team_id: 1626
+meta:
+  title: "freelancer.common.search.product.plugins.title"
+  subtitle: "freelancer.common.search.product.plugins.subtitle"
+  icon: "icn_24_puzzle"
+  keywords:
+    - "freelancer.common.search.product.keyword.plugins"
+    - "freelancer.common.search.product.keyword.gateway"
+    - "freelancer.common.search.product.keyword.online_gateway"
+    - "freelancer.common.search.product.keyword.shopify"
+    - "freelancer.common.search.product.keyword.woocommerce"
+    - "freelancer.common.search.product.keyword.prestashop"

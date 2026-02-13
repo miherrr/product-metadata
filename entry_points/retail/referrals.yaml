@@ -1,0 +1,13 @@
+id: REFERRALS
+status: PUBLISHED
+team_id: 3637
+meta:
+  title: "referrals.product_search.title"
+  subtitle: "global_search_products.placeholder"
+  icon: "icn_24_add_contact"
+  keywords:
+    - "referrals.product_search.keyword.reward"
+    - "referrals.product_search.keyword.bonus"
+    - "referrals.product_search.keyword.earn_money"
+    - "referrals.product_search.keyword.get_money"
+    - "referrals.product_search.keyword.invite"

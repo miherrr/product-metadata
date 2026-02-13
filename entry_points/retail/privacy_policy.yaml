@@ -1,0 +1,10 @@
+id: PRIVACY_POLICY
+status: PUBLISHED
+team_id: 3719
+meta:
+  title: "search.block.discover.privacy_policy.title"
+  subtitle: null
+  icon: "icn_24_document"
+  keywords:
+    - "search.block.discover.keywords.privacy"
+    - "search.block.discover.keywords.policy"

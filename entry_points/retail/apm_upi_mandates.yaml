@@ -1,0 +1,9 @@
+id: APM_UPI_MANDATES
+status: PUBLISHED
+team_id: 2652
+meta:
+  title: "payments.quick_actions.upi_subscription.title"
+  subtitle: null
+  icon: "icn_24_calendar"
+  keywords:
+    - "apm.upi.search.product.keyword.upi_mandate"

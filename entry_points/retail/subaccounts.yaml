@@ -1,0 +1,10 @@
+id: SUBACCOUNTS
+status: PUBLISHED
+team_id: 1859
+meta:
+  title: "subaccounts.search.products.subaccounts.title"
+  subtitle: "subaccounts.search.products.subaccounts.subtitle"
+  icon: "icn_24_wallet"
+  keywords:
+    - "subaccounts.search.category"
+    - "vaults.search.category"

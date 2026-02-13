@@ -1,0 +1,11 @@
+id: PAYMENT_LINK
+status: PUBLISHED
+team_id: 242
+meta:
+  title: "global_search.products.payment_link.title"
+  subtitle: "global_search.products.payment_link.subtitle"
+  icon: "icn_24_share_ios"
+  keywords:
+    - "global_search.keywords.payment_link.send_money"
+    - "global_search.keywords.payment_link.request_money"
+    - "global_search.keywords.payment_link.pay_by_link"

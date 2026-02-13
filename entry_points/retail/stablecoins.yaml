@@ -1,0 +1,15 @@
+id: STABLECOINS
+status: PUBLISHED
+team_id: 1000
+meta:
+  title: "crypto.global_search.stablecoins.title"
+  subtitle: null
+  icon: "icn_24_rates_converter_page"
+  keywords:
+    - "crypto.global_search.stablecoins.keywords.stablecoin"
+    - "crypto.global_search.stablecoins.keywords.stablecoins"
+    - "crypto.global_search.stablecoins.keywords.one_one_dollar"
+    - "crypto.global_search.stablecoins.keywords.dollar_backed_crypto"
+    - "crypto.global_search.stablecoins.keywords.stable_crypto"
+    - "crypto.global_search.stablecoins.keywords.revolut_stablecoins"
+    - "crypto.global_search.stablecoins.keywords.convert_stablecoin"

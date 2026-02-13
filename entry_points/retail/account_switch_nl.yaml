@@ -1,0 +1,12 @@
+id: ACCOUNT_SWITCH_NL
+status: PUBLISHED
+team_id: 2652
+meta:
+  title: "localisation.search.products.account_switching"
+  subtitle: "localisation.search.products.account_switching.description"
+  icon: "icn_24_arrow_exchange"
+  keywords:
+    - "localisation.search.products.account_switching"
+    - "localisation.search.products.account_switching.keywords.account_switch"
+    - "localisation.search.products.account_switching.keywords.switch_to_revolut"
+    - "localisation.search.products.account_switching.keywords.overstap"

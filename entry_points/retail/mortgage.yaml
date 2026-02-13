@@ -1,0 +1,8 @@
+id: MORTGAGE
+status: PUBLISHED
+team_id: 2601
+meta:
+  title: "credit.get_credit.mortgage.title"
+  subtitle: "credit.get_credit.mortgage.description"
+  icon: "icn_24_utilities"
+  keywords: []

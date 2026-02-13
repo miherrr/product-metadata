@@ -1,0 +1,37 @@
+id: AIRPORT_SECURITY_FAST_TRACK
+status: PUBLISHED
+team_id: 2877
+meta:
+  title: "asft.global_search.title"
+  subtitle: null
+  icon: "icn_24_turbo_transfer"
+  keywords:
+    - "asft.global_search.keywords.access"
+    - "asft.global_search.keywords.airline"
+    - "asft.global_search.keywords.airport"
+    - "asft.global_search.keywords.arrival"
+    - "asft.global_search.keywords.badge"
+    - "asft.global_search.keywords.baggage"
+    - "asft.global_search.keywords.boarding"
+    - "asft.global_search.keywords.clearance"
+    - "asft.global_search.keywords.comfort"
+    - "asft.global_search.keywords.departure"
+    - "asft.global_search.keywords.elite"
+    - "asft.global_search.keywords.entry"
+    - "asft.global_search.keywords.express"
+    - "asft.global_search.keywords.fast"
+    - "asft.global_search.keywords.fasttrack"
+    - "asft.global_search.keywords.flight"
+    - "asft.global_search.keywords.lane"
+    - "asft.global_search.keywords.pass"
+    - "asft.global_search.keywords.passenger"
+    - "asft.global_search.keywords.passport"
+    - "asft.global_search.keywords.premium"
+    - "asft.global_search.keywords.priority"
+    - "asft.global_search.keywords.queue"
+    - "asft.global_search.keywords.quick"
+    - "asft.global_search.keywords.security"
+    - "asft.global_search.keywords.skip"
+    - "asft.global_search.keywords.terminal"
+    - "asft.global_search.keywords.track"
+    - "asft.global_search.keywords.vip"

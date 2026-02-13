@@ -1,0 +1,14 @@
+id: CFD
+status: PUBLISHED
+team_id: 1956
+meta:
+  title: "wealth.invest.home.portfolio.cfds.header.title"
+  subtitle: null
+  icon: "icn_24_cfd"
+  keywords:
+    - "invest.suggestions.products.cfds.cfds"
+    - "invest.suggestions.products.cfds.contracts_for_difference"
+    - "invest.suggestions.products.cfds.leverage_trading"
+    - "invest.suggestions.products.cfds.speculation"
+    - "invest.suggestions.products.cfds.short"
+    - "invest.suggestions.products.cfds.sell"

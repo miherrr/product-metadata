@@ -1,0 +1,25 @@
+id: BUSINESS
+status: PUBLISHED
+team_id: 2410
+meta:
+  title: "business_bridge.revolut_business_product.title"
+  subtitle: "business_bridge.revolut_business_product.subtitle"
+  icon: "icn_24_company_filled"
+  keywords:
+    - "business_bridge.revolut_business_product.keywords.activate"
+    - "business_bridge.revolut_business_product.keywords.business"
+    - "business_bridge.revolut_business_product.keywords.business_account"
+    - "business_bridge.revolut_business_product.keywords.company"
+    - "business_bridge.revolut_business_product.keywords.freelance"
+    - "business_bridge.revolut_business_product.keywords.get_paid"
+    - "business_bridge.revolut_business_product.keywords.invoice"
+    - "business_bridge.revolut_business_product.keywords.payment_link"
+    - "business_bridge.revolut_business_product.keywords.pos"
+    - "business_bridge.revolut_business_product.keywords.pro"
+    - "business_bridge.revolut_business_product.keywords.revolut_business"
+    - "business_bridge.revolut_business_product.keywords.revolut_pay"
+    - "business_bridge.revolut_business_product.keywords.shopify"
+    - "business_bridge.revolut_business_product.keywords.stripe"
+    - "business_bridge.revolut_business_product.keywords.tap_to_pay"
+    - "business_bridge.revolut_business_product.keywords.team"
+    - "business_bridge.revolut_business_product.keywords.work"

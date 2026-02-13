@@ -1,0 +1,15 @@
+id: STAKING
+status: PUBLISHED
+team_id: 1513
+meta:
+  title: "crypto.global_search.staking.title"
+  subtitle: null
+  icon: "icn_24_percent"
+  keywords:
+    - "crypto.global_search.staking.keywords.staking"
+    - "crypto.global_search.staking.keywords.earn_crypto"
+    - "crypto.global_search.staking.keywords.passive_income"
+    - "crypto.global_search.staking.keywords.crypto_rewards"
+    - "crypto.global_search.staking.keywords.earn_with_crypto"
+    - "crypto.global_search.staking.keywords.crypto_staking"
+    - "crypto.global_search.staking.keywords.revolut_staking"

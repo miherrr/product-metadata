@@ -1,0 +1,11 @@
+id: ROBO
+status: PUBLISHED
+team_id: 1643
+meta:
+  title: "wealth.robo.global_search.title"
+  subtitle: "wealth.robo.global_search.description"
+  icon: "icn_24_pie_chart"
+  keywords:
+    - "wealth.robo.global_search.keys.automated"
+    - "wealth.robo.global_search.keys.robo"
+    - "wealth.robo.global_search.keys.robo_advisor"

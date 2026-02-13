@@ -1,0 +1,8 @@
+id: OVERDRAFT
+status: PUBLISHED
+team_id: 2867
+meta:
+  title: "credit.get_credit.overdraft.title"
+  subtitle: "credit.get_credit.overdraft.description"
+  icon: "icn_24_overdraft"
+  keywords: []

@@ -1,0 +1,12 @@
+id: PLAN_GIFTING
+status: PUBLISHED
+team_id: 243
+meta:
+  title: "premium.search.products.keywords.plan_gifting"
+  subtitle: null
+  icon: "icn_24_present"
+  keywords:
+    - "premium.search.keywords.family"
+    - "premium.search.keywords.friend"
+    - "premium.search.keywords.membership"
+    - "premium.search.keywords.subscription"

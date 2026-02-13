@@ -1,0 +1,12 @@
+id: CRYPTO_ANALYTICS
+status: PUBLISHED
+team_id: 1251
+meta:
+  title: "wealth_analytics.search.product.crypto_analytics.title"
+  subtitle: "wealth_analytics.search.product.crypto_analytics.description"
+  icon: "icn_24_bar_chart"
+  keywords:
+    - "wealth_analytics.search.product.crypto.keyword.crypto_analytics"
+    - "wealth_analytics.search.product.crypto.keyword.crypto"
+    - "wealth_analytics.search.product.crypto.keyword.crypto_performance"
+    - "wealth_analytics.search.product.crypto.keyword.crypto_total_value"

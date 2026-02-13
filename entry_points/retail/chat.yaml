@@ -1,0 +1,13 @@
+id: CHAT
+status: PUBLISHED
+team_id: 930
+meta:
+  title: "search.products.chat"
+  subtitle: null
+  icon: "icn_24_chat"
+  keywords:
+    - "global_search.keywords.help"
+    - "search.block.discover.keywords.support"
+    - "search.block.discover.keywords.assist"
+    - "search.block.discover.keywords.assistance"
+    - "search.block.discover.keywords.assistant"

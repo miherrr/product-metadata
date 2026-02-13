@@ -1,0 +1,18 @@
+id: NEW_PAYMENT
+status: PUBLISHED
+team_id: 242
+meta:
+  title: "global_search.products.new_payment.title"
+  subtitle: "global_search.products.new_payment.subtitle"
+  icon: "icn_24_arrow_right_left"
+  keywords:
+    - "global_search.keywords.pay"
+    - "global_search.keywords.payments"
+    - "global_search.keywords.transfers"
+    - "global_search.keywords.bank"
+    - "global_search.keywords.card"
+    - "global_search.keywords.bank_transfers"
+    - "global_search.keywords.card_transfers"
+    - "global_search.keywords.revolut_transfers"
+    - "global_search.keywords.send"
+    - "global_search.keywords.send_money"

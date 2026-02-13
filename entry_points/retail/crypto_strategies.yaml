@@ -1,0 +1,16 @@
+id: CRYPTO_STRATEGIES
+status: PUBLISHED
+team_id: 1000
+meta:
+  title: "crypto.global_search.crypto_strategies.title"
+  subtitle: null
+  icon: "icn_24_invest"
+  keywords:
+    - "crypto.global_search.crypto_strategies.keywords.recurring_buy"
+    - "crypto.global_search.crypto_strategies.keywords.auto_invest"
+    - "crypto.global_search.crypto_strategies.keywords.spare_change"
+    - "crypto.global_search.crypto_strategies.keywords.crypto_spare_change"
+    - "crypto.global_search.crypto_strategies.keywords.round_up"
+    - "crypto.global_search.crypto_strategies.keywords.passive_investing"
+    - "crypto.global_search.crypto_strategies.keywords.crypto_investing"
+    - "crypto.global_search.crypto_strategies.keywords.invest_in_crypto"

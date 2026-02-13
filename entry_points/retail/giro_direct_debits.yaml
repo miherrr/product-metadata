@@ -1,0 +1,9 @@
+id: GIRO_DIRECT_DEBITS
+status: PUBLISHED
+team_id: 2652
+meta:
+  title: "giro.search.products.direct_debit"
+  subtitle: null
+  icon: "icn_24_recurring"
+  keywords:
+    - "giro.search.products.direct_debit"

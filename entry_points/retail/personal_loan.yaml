@@ -1,0 +1,8 @@
+id: PERSONAL_LOAN
+status: PUBLISHED
+team_id: 2946
+meta:
+  title: "credit.get_credit.loan.title"
+  subtitle: "credit.get_credit.loan.description"
+  icon: "icn_24_credit"
+  keywords: []

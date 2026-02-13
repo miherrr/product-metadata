@@ -1,0 +1,16 @@
+id: JUNIOR_ACCOUNTS
+status: PUBLISHED
+team_id: 3355
+meta:
+  title: "junior.search.product.title"
+  subtitle: "junior.search.product.subtitle.generic"
+  icon: "icn_24_children"
+  keywords:
+    - "junior.search.product.keyword.18"
+    - "junior.search.product.keyword.children"
+    - "junior.search.product.keyword.junior"
+    - "junior.search.product.keyword.kids"
+    - "junior.search.product.keyword.lt18"
+    - "junior.search.product.keyword.teens"
+    - "junior.search.product.keyword.under"
+    - "junior.search.product.keyword.youth"

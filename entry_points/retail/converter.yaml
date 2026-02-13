@@ -1,0 +1,16 @@
+id: CONVERTER
+status: PUBLISHED
+team_id: 3719
+meta:
+  title: "search.block.discover.converter.title"
+  subtitle: null
+  icon: "icn_24_rates_converter"
+  keywords:
+    - "search.block.discover.keywords.currency"
+    - "search.block.discover.keywords.currencies"
+    - "search.block.discover.keywords.crypto"
+    - "search.block.discover.keywords.cryptocurrencies"
+    - "search.block.discover.keywords.commodities"
+    - "search.block.discover.keywords.stocks"
+    - "search.block.discover.keywords.convert"
+    - "search.block.discover.keywords.exchange"

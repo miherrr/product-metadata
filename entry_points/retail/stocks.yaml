@@ -1,0 +1,36 @@
+id: STOCKS
+status: PUBLISHED
+team_id: 1469
+meta:
+  title: "global_search_products.placeholder"
+  subtitle: null
+  icon: "icn_24_wealth"
+  keywords:
+    - "invest.suggestions.products.stocks.trades"
+    - "invest.search.suggestions.stocks"
+    - "invest.suggestions.products.stocks.asset_classes"
+    - "invest.suggestions.products.stocks.instruments"
+    - "invest.suggestions.products.stocks.securities"
+    - "invest.suggestions.products.stocks.assets"
+    - "invest.suggestions.products.stocks.markets"
+    - "invest.suggestions.products.stocks.tradeables"
+    - "invest.suggestions.products.stocks.investments"
+    - "invest.suggestions.products.stocks.invest"
+    - "invest.suggestions.products.stocks.wealth"
+    - "invest.suggestions.products.stocks.trading"
+    - "invest.suggestions.products.stocks.buy"
+    - "invest.suggestions.products.stocks.sell"
+    - "invest.suggestions.products.stocks.etfs"
+    - "invest.suggestions.products.stocks.funds"
+    - "invest.suggestions.products.stocks.exchange_traded_funds"
+    - "invest.suggestions.products.stocks.indices"
+    - "invest.suggestions.products.stocks.index_funds"
+    - "invest.suggestions.products.stocks.index_etfs"
+    - "invest.suggestions.products.stocks.passive_investing"
+    - "invest.suggestions.products.stocks.bonds"
+    - "invest.suggestions.products.stocks.fixed_income"
+    - "invest.suggestions.products.stocks.debt"
+    - "invest.suggestions.products.stocks.treasuries"
+    - "invest.suggestions.products.stocks.corporate_bonds"
+    - "invest.suggestions.products.stocks.government_bonds"
+    - "invest.suggestions.products.stocks.gilts"

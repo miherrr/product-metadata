@@ -1,0 +1,15 @@
+id: ANALYTICS
+status: PUBLISHED
+team_id: 2064
+meta:
+  title: "analytics.search.title"
+  subtitle: null
+  icon: "icn_24_bar_chart"
+  keywords:
+    - "analytics.search.keywords.networth"
+    - "analytics.search.keywords.value"
+    - "analytics.search.keywords.spend"
+    - "analytics.search.keywords.spending"
+    - "analytics.search.keywords.category"
+    - "analytics.search.keywords.categories"
+    - "analytics.search.keywords.merchant"

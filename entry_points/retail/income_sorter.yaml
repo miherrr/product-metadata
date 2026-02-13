@@ -1,0 +1,11 @@
+id: INCOME_SORTER
+status: PUBLISHED
+team_id: 2064
+meta:
+  title: "analytics.income_sorter.global_search.title"
+  subtitle: null
+  icon: "icn_24_arrow_split"
+  keywords:
+    - "analytics.income_sorter.global_search.keywords.income_sorter"
+    - "analytics.income_sorter.global_search.keywords.salary_sorter"
+    - "analytics.income_sorter.global_search.keywords.sorter"

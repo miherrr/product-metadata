@@ -1,0 +1,13 @@
+id: PROFILE
+status: PUBLISHED
+team_id: 3719
+meta:
+  title: "search.block.discover.profile.title"
+  subtitle: null
+  icon: "icn_24_profile"
+  keywords:
+    - "search.block.discover.keywords.settings"
+    - "search.block.discover.keywords.account_info"
+    - "search.block.discover.keywords.account_details"
+    - "search.block.discover.keywords.my_accounts"
+    - "search.block.discover.keywords.biometric"

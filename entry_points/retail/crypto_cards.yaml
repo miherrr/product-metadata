@@ -1,0 +1,15 @@
+id: CRYPTO_CARDS
+status: PUBLISHED
+team_id: 1000
+meta:
+  title: "crypto.global_search.crypto_cards.title"
+  subtitle: null
+  icon: "icn_24_card"
+  keywords:
+    - "crypto.global_search.crypto_cards.keywords.crypto_card"
+    - "crypto.global_search.crypto_cards.keywords.spend_crypto"
+    - "crypto.global_search.crypto_cards.keywords.crypto_payments"
+    - "crypto.global_search.crypto_cards.keywords.bitcoin_card"
+    - "crypto.global_search.crypto_cards.keywords.revolut_crypto_card"
+    - "crypto.global_search.crypto_cards.keywords.pay_with_crypto"
+    - "crypto.global_search.crypto_cards.keywords.use_crypto"

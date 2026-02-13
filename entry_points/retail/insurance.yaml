@@ -1,0 +1,18 @@
+id: INSURANCE
+status: PUBLISHED
+team_id: 2820
+meta:
+  title: "lifestyle.search.products.insurance"
+  subtitle: null
+  icon: "icn_24_insurance"
+  keywords:
+    - "lifestyle.search.products.keywords.cover"
+    - "lifestyle.search.products.keywords.insurance"
+    - "lifestyle.search.products.keywords.insure"
+    - "lifestyle.search.products.keywords.policy"
+    - "lifestyle.search.products.keywords.purchase_protection"
+    - "lifestyle.search.products.keywords.travel_insurance"
+    - "lifestyle.search.products.keywords.premium_insurance"
+    - "lifestyle.search.products.keywords.metal_insurance"
+    - "lifestyle.search.products.keywords.ultra_insurance"
+    - "lifestyle.search.products.keywords.private_insurance"

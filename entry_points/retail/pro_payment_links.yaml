@@ -1,0 +1,9 @@
+id: PRO_PAYMENT_LINKS
+status: PUBLISHED
+team_id: 1626
+meta:
+  title: "freelancer.common.search.product.payment_links.title"
+  subtitle: "freelancer.common.search.product.payment_links.subtitle"
+  icon: "icn_24_link"
+  keywords:
+    - "freelancer.common.search.product.keyword.payment_link"

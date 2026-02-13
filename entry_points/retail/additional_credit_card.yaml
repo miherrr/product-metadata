@@ -1,0 +1,8 @@
+id: ADDITIONAL_CREDIT_CARD
+status: PUBLISHED
+team_id: 2939
+meta:
+  title: "credit_card.additional.entry_point.global_search.title"
+  subtitle: "credit_card.additional.entry_point.global_search.subtitle"
+  icon: "icn_24_add_contact"
+  keywords: []

@@ -1,0 +1,11 @@
+id: PRO_TERMINAL
+status: PUBLISHED
+team_id: 1626
+meta:
+  title: "freelancer.common.search.product.revolut_terminal.title"
+  subtitle: "freelancer.common.search.product.revolut_terminal.subtitle"
+  icon: "icn_24_card_terminal"
+  keywords:
+    - "freelancer.common.search.product.keyword.terminal"
+    - "freelancer.common.search.product.keyword.revolut_terminal"
+    - "freelancer.common.search.product.keyword.pos"

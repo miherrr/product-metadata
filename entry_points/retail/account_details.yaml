@@ -1,0 +1,26 @@
+id: ACCOUNT_DETAILS
+status: PUBLISHED
+team_id: 3719
+meta:
+  title: "search.block.discover.account_details.title"
+  subtitle: null
+  icon: "icn_24_bank"
+  keywords:
+    - "search.block.discover.keywords.wallets"
+    - "search.block.discover.keywords.currencies"
+    - "search.block.discover.keywords.account"
+    - "search.block.discover.keywords.iban"
+    - "search.block.discover.keywords.swift"
+    - "search.block.discover.keywords.sort_code"
+    - "search.block.discover.keywords.transfer"
+    - "search.block.discover.keywords.ach"
+    - "search.block.discover.keywords.wire_routing"
+    - "search.block.discover.keywords.bic"
+    - "search.block.discover.keywords.receive_money"
+    - "search.block.discover.keywords.receive_transfer"
+    - "search.block.discover.keywords.receiving_money"
+    - "search.block.discover.keywords.receiving_transfer"
+    - "search.block.discover.keywords.account_number"
+    - "search.block.discover.keywords.acc_details"
+    - "search.block.discover.keywords.sortcode"
+    - "search.block.discover.keywords.accountnumber"

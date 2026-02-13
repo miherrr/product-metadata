@@ -1,0 +1,17 @@
+id: PRICING_PLAN
+status: DRAFT
+team_id: 3719
+meta:
+  title: "search.block.discover.plan.title"
+  subtitle: null
+  icon: "icn_24_premium"
+  keywords:
+    - "search.block.discover.keywords.plan_details"
+    - "search.block.discover.keywords.membership"
+    - "search.block.discover.keywords.subscription"
+    - "search.block.discover.keywords.tier"
+    - "search.block.discover.keywords.upgrade"
+    - "search.block.discover.keywords.standard"
+    - "search.block.discover.keywords.plus"
+    - "search.block.discover.keywords.premium"
+    - "search.block.discover.keywords.metal"

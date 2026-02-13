@@ -1,0 +1,10 @@
+id: ONLINE_SHOPS
+status: PUBLISHED
+team_id: 2686
+meta:
+  title: "lifestyle.search.products.shops"
+  subtitle: null
+  icon: "icn_24_shopping"
+  keywords:
+    - "lifestyle.search.products.keywords.shops"
+    - "lifestyle.search.products.keywords.online"

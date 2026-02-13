@@ -1,0 +1,9 @@
+id: CARDS
+status: PUBLISHED
+team_id: 1170
+meta:
+  title: "cards.search.products.cards"
+  subtitle: null
+  icon: "icn_24_card"
+  keywords:
+    - "cards.search.products.keywords.cards"

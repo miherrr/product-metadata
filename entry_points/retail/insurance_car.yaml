@@ -1,0 +1,18 @@
+id: INSURANCE_CAR
+status: PUBLISHED
+team_id: 2820
+meta:
+  title: "lifestyle.search.products.car_insurance"
+  subtitle: null
+  icon: "icn_24_driving_licence"
+  keywords:
+    - "lifestyle.search.products.keywords.aig"
+    - "lifestyle.search.products.keywords.auto"
+    - "lifestyle.search.products.keywords.car"
+    - "lifestyle.search.products.keywords.comparison"
+    - "lifestyle.search.products.keywords.cover"
+    - "lifestyle.search.products.keywords.insure"
+    - "lifestyle.search.products.keywords.motor"
+    - "lifestyle.search.products.keywords.policy"
+    - "lifestyle.search.products.keywords.protection"
+    - "lifestyle.search.products.keywords.vehicle"

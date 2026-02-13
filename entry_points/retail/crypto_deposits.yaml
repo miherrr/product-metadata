@@ -1,0 +1,15 @@
+id: CRYPTO_DEPOSITS
+status: PUBLISHED
+team_id: 2451
+meta:
+  title: "crypto.global_search.crypto_deposits.title"
+  subtitle: null
+  icon: "icn_24_arrow_request"
+  keywords:
+    - "crypto.global_search.crypto_deposits.keywords.crypto_deposit"
+    - "crypto.global_search.crypto_deposits.keywords.receive_crypto"
+    - "crypto.global_search.crypto_deposits.keywords.on_chain_transfer"
+    - "crypto.global_search.crypto_deposits.keywords.transfer_crypto"
+    - "crypto.global_search.crypto_deposits.keywords.deposit_bitcoin"
+    - "crypto.global_search.crypto_deposits.keywords.deposit"
+    - "crypto.global_search.crypto_deposits.keywords.receive"

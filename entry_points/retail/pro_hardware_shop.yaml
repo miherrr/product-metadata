@@ -1,0 +1,10 @@
+id: PRO_HARDWARE_SHOP
+status: PUBLISHED
+team_id: 1626
+meta:
+  title: "freelancer.common.search.product.hardware_shop.title"
+  subtitle: "freelancer.common.search.product.hardware_shop.subtitle"
+  icon: "icn_24_card_terminal"
+  keywords:
+    - "freelancer.common.search.product.keyword.hardware"
+    - "freelancer.common.search.product.keyword.in_person_payment"

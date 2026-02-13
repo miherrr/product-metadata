@@ -1,0 +1,16 @@
+id: LIMITS
+status: PUBLISHED
+team_id: 3719
+meta:
+  title: "search.block.discover.limits.title"
+  subtitle: null
+  icon: "icn_24_limit"
+  keywords:
+    - "search.block.discover.keywords.limit"
+    - "search.block.discover.keywords.fees"
+    - "search.block.discover.keywords.fee"
+    - "search.block.discover.keywords.commission"
+    - "search.block.discover.keywords.withdrawal"
+    - "search.block.discover.keywords.fx"
+    - "search.block.discover.keywords.atms"
+    - "search.block.discover.keywords.cash"
